@@ -19,6 +19,7 @@ Tasks Not completed
 - bouns tasks
 
 ![Video Walkthrough](https://raw.githubusercontent.com/mayavenkatraman/FacebookTake2/master/FacebookTake2/FB-exercise.gif)
+
  GIF created with [LiceCap](http://www.cockos.com/licecap/).
  
  
