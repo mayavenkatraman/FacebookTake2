@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3D25AA6D19BC4840002A1446 /* RequestViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D25AA6C19BC4840002A1446 /* RequestViewController.swift */; };
 		3D8F576119BC07F20008FDB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8F576019BC07F20008FDB9 /* AppDelegate.swift */; };
 		3D8F576319BC07F20008FDB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D8F576219BC07F20008FDB9 /* ViewController.swift */; };
 		3D8F576619BC07F20008FDB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3D8F576419BC07F20008FDB9 /* Main.storyboard */; };
@@ -29,6 +30,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		3D25AA6C19BC4840002A1446 /* RequestViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestViewController.swift; sourceTree = "<group>"; };
 		3D8F575B19BC07F20008FDB9 /* FacebookTake2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FacebookTake2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3D8F575F19BC07F20008FDB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D8F576019BC07F20008FDB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -86,6 +88,7 @@
 				3D8F576019BC07F20008FDB9 /* AppDelegate.swift */,
 				3D8F576219BC07F20008FDB9 /* ViewController.swift */,
 				3D8F576419BC07F20008FDB9 /* Main.storyboard */,
+				3D25AA6C19BC4840002A1446 /* RequestViewController.swift */,
 				3D8F578319BC26000008FDB9 /* CheckInViewController.swift */,
 				3D8F578119BC25E50008FDB9 /* CameraViewController.swift */,
 				3D8F577F19BC1C7C0008FDB9 /* StatusUpdateViewController.swift */,
@@ -222,6 +225,7 @@
 			files = (
 				3D8F577E19BC17A90008FDB9 /* DetailViewController.swift in Sources */,
 				3D8F578219BC25E50008FDB9 /* CameraViewController.swift in Sources */,
+				3D25AA6D19BC4840002A1446 /* RequestViewController.swift in Sources */,
 				3D8F576319BC07F20008FDB9 /* ViewController.swift in Sources */,
 				3D8F578019BC1C7C0008FDB9 /* StatusUpdateViewController.swift in Sources */,
 				3D8F578419BC26000008FDB9 /* CheckInViewController.swift in Sources */,
@@ -413,6 +417,7 @@
 				3D8F577919BC07F20008FDB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		3D8F577A19BC07F20008FDB9 /* Build configuration list for PBXNativeTarget "FacebookTake2Tests" */ = {
 			isa = XCConfigurationList;
@@ -421,6 +426,7 @@
 				3D8F577C19BC07F20008FDB9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
