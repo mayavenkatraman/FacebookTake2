@@ -18,5 +18,9 @@ Tasks Not completed
 - one of the cancel buttons does not work (modal transition)
 - bouns tasks
 
-
+![Video Walkthrough](https://raw.githubusercontent.com/mayavenkatraman/FacebookTake2/master/FacebookTake2/FB-exercise.gif)
+ GIF created with [LiceCap](http://www.cockos.com/licecap/).
+ 
+ 
+ 
 Note: I travel out tomorrow. I will try and work with someone who is in the class to learn the scrolling functionaliy, which I feel is the large gap. It would be sweet to know how to do the two bonus features as well... 
